@@ -1,0 +1,884 @@
+country_code,country_name,indicator_id,indicator_name,index_id,index_name,value,year
+#country+code,#country+name,#indicator+id,#indicator+name,#index+id,#index+name,#indicator+value+num,#date+year
+DNK,Denmark,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,9.331,1990
+DNK,Denmark,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,9.384,1991
+DNK,Denmark,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,10.203,1992
+DNK,Denmark,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,9.785,1993
+DNK,Denmark,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,9.886,1994
+DNK,Denmark,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,9.461,1995
+DNK,Denmark,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,8.783,1996
+DNK,Denmark,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,9.152,1997
+DNK,Denmark,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,8.665,1998
+DNK,Denmark,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,8.432,1999
+DNK,Denmark,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,8.169,2000
+DNK,Denmark,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,7.601,2001
+DNK,Denmark,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,6.481,2002
+DNK,Denmark,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,5.899,2003
+DNK,Denmark,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,5.594,2004
+DNK,Denmark,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,5.521,2005
+DNK,Denmark,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,5.714,2006
+DNK,Denmark,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,5.592,2007
+DNK,Denmark,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,5.835,2008
+DNK,Denmark,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,5.444,2009
+DNK,Denmark,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,5.022,2010
+DNK,Denmark,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,4.643,2011
+DNK,Denmark,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,4.499,2012
+DNK,Denmark,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,4.247,2013
+DNK,Denmark,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,3.834,2014
+DNK,Denmark,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,3.561,2015
+DNK,Denmark,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,3.511,2016
+DNK,Denmark,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,2.893,2017
+DNK,Denmark,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,2.495,2018
+DNK,Denmark,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,2.123,2019
+DNK,Denmark,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,1.893,2020
+DNK,Denmark,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,1.908,2021
+DNK,Denmark,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,1.814,2022
+DNK,Denmark,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,10.395,1990
+DNK,Denmark,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,12.427,1991
+DNK,Denmark,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,11.270,1992
+DNK,Denmark,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,11.663,1993
+DNK,Denmark,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,12.404,1994
+DNK,Denmark,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,11.777,1995
+DNK,Denmark,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,14.250,1996
+DNK,Denmark,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,12.400,1997
+DNK,Denmark,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,11.557,1998
+DNK,Denmark,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,11.025,1999
+DNK,Denmark,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,10.169,2000
+DNK,Denmark,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,10.427,2001
+DNK,Denmark,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,10.329,2002
+DNK,Denmark,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,11.238,2003
+DNK,Denmark,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,10.174,2004
+DNK,Denmark,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,9.480,2005
+DNK,Denmark,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,10.902,2006
+DNK,Denmark,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,9.984,2007
+DNK,Denmark,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,9.315,2008
+DNK,Denmark,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,8.840,2009
+DNK,Denmark,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,8.862,2010
+DNK,Denmark,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,7.933,2011
+DNK,Denmark,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,7.117,2012
+DNK,Denmark,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,7.424,2013
+DNK,Denmark,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,6.649,2014
+DNK,Denmark,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,6.184,2015
+DNK,Denmark,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,6.469,2016
+DNK,Denmark,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,6.042,2017
+DNK,Denmark,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,6.002,2018
+DNK,Denmark,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,5.340,2019
+DNK,Denmark,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,4.858,2020
+DNK,Denmark,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,5.058,2021
+DNK,Denmark,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,5.058,2022
+DNK,Denmark,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,5.961,2014
+DNK,Denmark,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,5.812,2015
+DNK,Denmark,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,5.904,2016
+DNK,Denmark,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,5.908,2017
+DNK,Denmark,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,5.968,2018
+DNK,Denmark,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,5.717,2019
+DNK,Denmark,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,5.785,2020
+DNK,Denmark,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,5.472,2021
+DNK,Denmark,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,5.562,2022
+DNK,Denmark,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,13.468,1990
+DNK,Denmark,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,14.116,1991
+DNK,Denmark,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,13.964,1992
+DNK,Denmark,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,14.151,1993
+DNK,Denmark,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,14.754,1994
+DNK,Denmark,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,16.336,1995
+DNK,Denmark,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,17.940,1996
+DNK,Denmark,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,16.648,1997
+DNK,Denmark,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,17.768,1998
+DNK,Denmark,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,17.905,1999
+DNK,Denmark,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,16.404,2000
+DNK,Denmark,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,16.388,2001
+DNK,Denmark,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,16.629,2002
+DNK,Denmark,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,17.314,2003
+DNK,Denmark,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,16.667,2004
+DNK,Denmark,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,17.344,2005
+DNK,Denmark,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,17.892,2006
+DNK,Denmark,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,16.996,2007
+DNK,Denmark,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,16.721,2008
+DNK,Denmark,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,15.072,2009
+DNK,Denmark,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,14.129,2010
+DNK,Denmark,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,14.024,2011
+DNK,Denmark,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,13.319,2012
+DNK,Denmark,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,13.398,2013
+DNK,Denmark,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,12.554,2014
+DNK,Denmark,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,11.859,2015
+DNK,Denmark,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,12.619,2016
+DNK,Denmark,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,12.182,2017
+DNK,Denmark,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,12.845,2018
+DNK,Denmark,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,11.628,2019
+DNK,Denmark,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,11.628,2020
+DNK,Denmark,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,11.827,2021
+DNK,Denmark,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,11.870,2022
+DNK,Denmark,eys,Expected Years of Schooling (years),HDI,Human Development Index,14.313,1990
+DNK,Denmark,eys,Expected Years of Schooling (years),HDI,Human Development Index,14.478,1991
+DNK,Denmark,eys,Expected Years of Schooling (years),HDI,Human Development Index,14.525,1992
+DNK,Denmark,eys,Expected Years of Schooling (years),HDI,Human Development Index,14.798,1993
+DNK,Denmark,eys,Expected Years of Schooling (years),HDI,Human Development Index,15.053,1994
+DNK,Denmark,eys,Expected Years of Schooling (years),HDI,Human Development Index,15.181,1995
+DNK,Denmark,eys,Expected Years of Schooling (years),HDI,Human Development Index,15.409,1996
+DNK,Denmark,eys,Expected Years of Schooling (years),HDI,Human Development Index,15.575,1997
+DNK,Denmark,eys,Expected Years of Schooling (years),HDI,Human Development Index,15.742,1998
+DNK,Denmark,eys,Expected Years of Schooling (years),HDI,Human Development Index,16.430,1999
+DNK,Denmark,eys,Expected Years of Schooling (years),HDI,Human Development Index,16.203,2000
+DNK,Denmark,eys,Expected Years of Schooling (years),HDI,Human Development Index,16.547,2001
+DNK,Denmark,eys,Expected Years of Schooling (years),HDI,Human Development Index,16.204,2002
+DNK,Denmark,eys,Expected Years of Schooling (years),HDI,Human Development Index,16.362,2003
+DNK,Denmark,eys,Expected Years of Schooling (years),HDI,Human Development Index,16.519,2004
+DNK,Denmark,eys,Expected Years of Schooling (years),HDI,Human Development Index,16.780,2005
+DNK,Denmark,eys,Expected Years of Schooling (years),HDI,Human Development Index,16.646,2006
+DNK,Denmark,eys,Expected Years of Schooling (years),HDI,Human Development Index,16.806,2007
+DNK,Denmark,eys,Expected Years of Schooling (years),HDI,Human Development Index,16.716,2008
+DNK,Denmark,eys,Expected Years of Schooling (years),HDI,Human Development Index,16.715,2009
+DNK,Denmark,eys,Expected Years of Schooling (years),HDI,Human Development Index,16.890,2010
+DNK,Denmark,eys,Expected Years of Schooling (years),HDI,Human Development Index,18.354,2011
+DNK,Denmark,eys,Expected Years of Schooling (years),HDI,Human Development Index,18.677,2012
+DNK,Denmark,eys,Expected Years of Schooling (years),HDI,Human Development Index,19.173,2013
+DNK,Denmark,eys,Expected Years of Schooling (years),HDI,Human Development Index,19.209,2014
+DNK,Denmark,eys,Expected Years of Schooling (years),HDI,Human Development Index,19.297,2015
+DNK,Denmark,eys,Expected Years of Schooling (years),HDI,Human Development Index,19.040,2016
+DNK,Denmark,eys,Expected Years of Schooling (years),HDI,Human Development Index,18.824,2017
+DNK,Denmark,eys,Expected Years of Schooling (years),HDI,Human Development Index,18.722,2018
+DNK,Denmark,eys,Expected Years of Schooling (years),HDI,Human Development Index,18.620,2019
+DNK,Denmark,eys,Expected Years of Schooling (years),HDI,Human Development Index,18.640,2020
+DNK,Denmark,eys,Expected Years of Schooling (years),HDI,Human Development Index,18.774,2021
+DNK,Denmark,eys,Expected Years of Schooling (years),HDI,Human Development Index,18.774,2022
+DNK,Denmark,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,14.493,1990
+DNK,Denmark,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,14.662,1991
+DNK,Denmark,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,14.747,1992
+DNK,Denmark,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,14.978,1993
+DNK,Denmark,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,15.251,1994
+DNK,Denmark,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,15.413,1995
+DNK,Denmark,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,15.705,1996
+DNK,Denmark,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,15.970,1997
+DNK,Denmark,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,16.236,1998
+DNK,Denmark,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,17.014,1999
+DNK,Denmark,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,16.745,2000
+DNK,Denmark,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,17.111,2001
+DNK,Denmark,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,16.778,2002
+DNK,Denmark,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,16.972,2003
+DNK,Denmark,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,17.167,2004
+DNK,Denmark,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,17.403,2005
+DNK,Denmark,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,17.260,2006
+DNK,Denmark,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,17.458,2007
+DNK,Denmark,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,17.409,2008
+DNK,Denmark,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,17.394,2009
+DNK,Denmark,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,17.526,2010
+DNK,Denmark,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,18.999,2011
+DNK,Denmark,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,19.310,2012
+DNK,Denmark,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,19.839,2013
+DNK,Denmark,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,19.981,2014
+DNK,Denmark,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,20.089,2015
+DNK,Denmark,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,19.715,2016
+DNK,Denmark,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,19.451,2017
+DNK,Denmark,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,19.326,2018
+DNK,Denmark,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,19.213,2019
+DNK,Denmark,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,19.258,2020
+DNK,Denmark,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,19.375,2021
+DNK,Denmark,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,19.375,2022
+DNK,Denmark,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,14.142,1990
+DNK,Denmark,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,14.302,1991
+DNK,Denmark,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,14.312,1992
+DNK,Denmark,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,14.626,1993
+DNK,Denmark,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,14.864,1994
+DNK,Denmark,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,14.959,1995
+DNK,Denmark,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,15.123,1996
+DNK,Denmark,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,15.195,1997
+DNK,Denmark,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,15.267,1998
+DNK,Denmark,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,15.867,1999
+DNK,Denmark,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,15.678,2000
+DNK,Denmark,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,15.998,2001
+DNK,Denmark,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,15.645,2002
+DNK,Denmark,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,15.765,2003
+DNK,Denmark,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,15.885,2004
+DNK,Denmark,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,16.169,2005
+DNK,Denmark,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,16.045,2006
+DNK,Denmark,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,16.168,2007
+DNK,Denmark,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,16.039,2008
+DNK,Denmark,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,16.055,2009
+DNK,Denmark,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,16.270,2010
+DNK,Denmark,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,17.724,2011
+DNK,Denmark,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,18.059,2012
+DNK,Denmark,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,18.520,2013
+DNK,Denmark,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,18.454,2014
+DNK,Denmark,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,18.525,2015
+DNK,Denmark,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,18.384,2016
+DNK,Denmark,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,18.217,2017
+DNK,Denmark,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,18.135,2018
+DNK,Denmark,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,18.046,2019
+DNK,Denmark,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,18.042,2020
+DNK,Denmark,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,18.193,2021
+DNK,Denmark,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,18.193,2022
+DNK,Denmark,gdi_group,GDI Group,GDI,Gender Development Index,1,2022
+DNK,Denmark,gii_rank,GII Rank,GII,Gender Inequality Index,1,2022
+DNK,Denmark,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,29301.385,1990
+DNK,Denmark,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,29774.750,1991
+DNK,Denmark,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,30579.552,1992
+DNK,Denmark,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,30703.666,1993
+DNK,Denmark,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,31788.819,1994
+DNK,Denmark,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,32103.569,1995
+DNK,Denmark,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,33020.510,1996
+DNK,Denmark,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,34189.114,1997
+DNK,Denmark,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,35536.394,1998
+DNK,Denmark,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,36474.563,1999
+DNK,Denmark,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,37642.632,2000
+DNK,Denmark,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,37978.153,2001
+DNK,Denmark,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,38260.980,2002
+DNK,Denmark,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,38523.350,2003
+DNK,Denmark,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,39565.616,2004
+DNK,Denmark,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,40869.621,2005
+DNK,Denmark,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,42671.684,2006
+DNK,Denmark,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,42583.502,2007
+DNK,Denmark,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,42207.769,2008
+DNK,Denmark,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,40149.731,2009
+DNK,Denmark,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,42608.878,2010
+DNK,Denmark,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,43311.016,2011
+DNK,Denmark,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,43498.033,2012
+DNK,Denmark,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,44345.288,2013
+DNK,Denmark,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,44655.757,2014
+DNK,Denmark,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,44781.289,2015
+DNK,Denmark,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,46014.266,2016
+DNK,Denmark,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,46879.226,2017
+DNK,Denmark,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,47713.381,2018
+DNK,Denmark,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,48242.460,2019
+DNK,Denmark,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,47426.036,2020
+DNK,Denmark,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,49585.119,2021
+DNK,Denmark,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,51753.410,2022
+DNK,Denmark,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,46809.151,1990
+DNK,Denmark,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,47068.658,1991
+DNK,Denmark,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,47672.286,1992
+DNK,Denmark,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,47671.668,1993
+DNK,Denmark,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,50598.977,1994
+DNK,Denmark,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,52719.264,1995
+DNK,Denmark,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,53619.661,1996
+DNK,Denmark,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,55026.139,1997
+DNK,Denmark,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,55652.312,1998
+DNK,Denmark,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,57424.073,1999
+DNK,Denmark,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,58276.510,2000
+DNK,Denmark,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,59138.879,2001
+DNK,Denmark,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,59202.124,2002
+DNK,Denmark,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,59375.751,2003
+DNK,Denmark,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,61678.381,2004
+DNK,Denmark,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,63133.923,2005
+DNK,Denmark,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,65455.138,2006
+DNK,Denmark,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,65296.061,2007
+DNK,Denmark,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,65128.879,2008
+DNK,Denmark,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,61248.766,2009
+DNK,Denmark,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,60853.748,2010
+DNK,Denmark,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,61559.404,2011
+DNK,Denmark,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,61364.513,2012
+DNK,Denmark,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,61985.986,2013
+DNK,Denmark,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,63362.954,2014
+DNK,Denmark,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,64395.053,2015
+DNK,Denmark,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,65142.333,2016
+DNK,Denmark,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,66378.947,2017
+DNK,Denmark,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,67872.217,2018
+DNK,Denmark,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,68779.760,2019
+DNK,Denmark,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,67328.384,2020
+DNK,Denmark,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,70508.460,2021
+DNK,Denmark,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,72387.095,2022
+DNK,Denmark,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,37930.238,1990
+DNK,Denmark,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,38299.431,1991
+DNK,Denmark,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,39007.068,1992
+DNK,Denmark,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,39072.201,1993
+DNK,Denmark,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,41068.652,1994
+DNK,Denmark,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,42277.206,1995
+DNK,Denmark,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,43189.098,1996
+DNK,Denmark,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,44478.325,1997
+DNK,Denmark,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,45472.659,1998
+DNK,Denmark,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,46826.209,1999
+DNK,Denmark,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,47842.310,2000
+DNK,Denmark,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,48441.940,2001
+DNK,Denmark,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,48619.965,2002
+DNK,Denmark,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,48841.733,2003
+DNK,Denmark,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,50509.889,2004
+DNK,Denmark,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,51891.162,2005
+DNK,Denmark,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,53953.003,2006
+DNK,Denmark,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,53832.946,2007
+DNK,Denmark,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,53564.020,2008
+DNK,Denmark,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,50606.302,2009
+DNK,Denmark,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,51653.701,2010
+DNK,Denmark,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,52360.197,2011
+DNK,Denmark,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,52360.500,2012
+DNK,Denmark,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,53098.628,2013
+DNK,Denmark,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,53941.250,2014
+DNK,Denmark,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,54520.040,2015
+DNK,Denmark,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,55515.417,2016
+DNK,Denmark,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,56568.416,2017
+DNK,Denmark,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,57733.303,2018
+DNK,Denmark,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,58453.588,2019
+DNK,Denmark,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,57324.124,2020
+DNK,Denmark,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,59993.310,2021
+DNK,Denmark,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,62018.957,2022
+DNK,Denmark,hdi_f,HDI female,GDI,Gender Development Index,0.828,1990
+DNK,Denmark,hdi_f,HDI female,GDI,Gender Development Index,0.832,1991
+DNK,Denmark,hdi_f,HDI female,GDI,Gender Development Index,0.835,1992
+DNK,Denmark,hdi_f,HDI female,GDI,Gender Development Index,0.836,1993
+DNK,Denmark,hdi_f,HDI female,GDI,Gender Development Index,0.843,1994
+DNK,Denmark,hdi_f,HDI female,GDI,Gender Development Index,0.845,1995
+DNK,Denmark,hdi_f,HDI female,GDI,Gender Development Index,0.853,1996
+DNK,Denmark,hdi_f,HDI female,GDI,Gender Development Index,0.861,1997
+DNK,Denmark,hdi_f,HDI female,GDI,Gender Development Index,0.869,1998
+DNK,Denmark,hdi_f,HDI female,GDI,Gender Development Index,0.880,1999
+DNK,Denmark,hdi_f,HDI female,GDI,Gender Development Index,0.882,2000
+DNK,Denmark,hdi_f,HDI female,GDI,Gender Development Index,0.889,2001
+DNK,Denmark,hdi_f,HDI female,GDI,Gender Development Index,0.889,2002
+DNK,Denmark,hdi_f,HDI female,GDI,Gender Development Index,0.895,2003
+DNK,Denmark,hdi_f,HDI female,GDI,Gender Development Index,0.901,2004
+DNK,Denmark,hdi_f,HDI female,GDI,Gender Development Index,0.905,2005
+DNK,Denmark,hdi_f,HDI female,GDI,Gender Development Index,0.905,2006
+DNK,Denmark,hdi_f,HDI female,GDI,Gender Development Index,0.905,2007
+DNK,Denmark,hdi_f,HDI female,GDI,Gender Development Index,0.909,2008
+DNK,Denmark,hdi_f,HDI female,GDI,Gender Development Index,0.904,2009
+DNK,Denmark,hdi_f,HDI female,GDI,Gender Development Index,0.907,2010
+DNK,Denmark,hdi_f,HDI female,GDI,Gender Development Index,0.916,2011
+DNK,Denmark,hdi_f,HDI female,GDI,Gender Development Index,0.920,2012
+DNK,Denmark,hdi_f,HDI female,GDI,Gender Development Index,0.923,2013
+DNK,Denmark,hdi_f,HDI female,GDI,Gender Development Index,0.918,2014
+DNK,Denmark,hdi_f,HDI female,GDI,Gender Development Index,0.925,2015
+DNK,Denmark,hdi_f,HDI female,GDI,Gender Development Index,0.933,2016
+DNK,Denmark,hdi_f,HDI female,GDI,Gender Development Index,0.934,2017
+DNK,Denmark,hdi_f,HDI female,GDI,Gender Development Index,0.933,2018
+DNK,Denmark,hdi_f,HDI female,GDI,Gender Development Index,0.936,2019
+DNK,Denmark,hdi_f,HDI female,GDI,Gender Development Index,0.936,2020
+DNK,Denmark,hdi_f,HDI female,GDI,Gender Development Index,0.937,2021
+DNK,Denmark,hdi_f,HDI female,GDI,Gender Development Index,0.942,2022
+DNK,Denmark,hdi_m,HDI male,GDI,Gender Development Index,0.846,1990
+DNK,Denmark,hdi_m,HDI male,GDI,Gender Development Index,0.851,1991
+DNK,Denmark,hdi_m,HDI male,GDI,Gender Development Index,0.852,1992
+DNK,Denmark,hdi_m,HDI male,GDI,Gender Development Index,0.856,1993
+DNK,Denmark,hdi_m,HDI male,GDI,Gender Development Index,0.863,1994
+DNK,Denmark,hdi_m,HDI male,GDI,Gender Development Index,0.866,1995
+DNK,Denmark,hdi_m,HDI male,GDI,Gender Development Index,0.872,1996
+DNK,Denmark,hdi_m,HDI male,GDI,Gender Development Index,0.878,1997
+DNK,Denmark,hdi_m,HDI male,GDI,Gender Development Index,0.883,1998
+DNK,Denmark,hdi_m,HDI male,GDI,Gender Development Index,0.894,1999
+DNK,Denmark,hdi_m,HDI male,GDI,Gender Development Index,0.895,2000
+DNK,Denmark,hdi_m,HDI male,GDI,Gender Development Index,0.902,2001
+DNK,Denmark,hdi_m,HDI male,GDI,Gender Development Index,0.901,2002
+DNK,Denmark,hdi_m,HDI male,GDI,Gender Development Index,0.905,2003
+DNK,Denmark,hdi_m,HDI male,GDI,Gender Development Index,0.909,2004
+DNK,Denmark,hdi_m,HDI male,GDI,Gender Development Index,0.915,2005
+DNK,Denmark,hdi_m,HDI male,GDI,Gender Development Index,0.914,2006
+DNK,Denmark,hdi_m,HDI male,GDI,Gender Development Index,0.916,2007
+DNK,Denmark,hdi_m,HDI male,GDI,Gender Development Index,0.919,2008
+DNK,Denmark,hdi_m,HDI male,GDI,Gender Development Index,0.911,2009
+DNK,Denmark,hdi_m,HDI male,GDI,Gender Development Index,0.916,2010
+DNK,Denmark,hdi_m,HDI male,GDI,Gender Development Index,0.934,2011
+DNK,Denmark,hdi_m,HDI male,GDI,Gender Development Index,0.940,2012
+DNK,Denmark,hdi_m,HDI male,GDI,Gender Development Index,0.942,2013
+DNK,Denmark,hdi_m,HDI male,GDI,Gender Development Index,0.944,2014
+DNK,Denmark,hdi_m,HDI male,GDI,Gender Development Index,0.945,2015
+DNK,Denmark,hdi_m,HDI male,GDI,Gender Development Index,0.952,2016
+DNK,Denmark,hdi_m,HDI male,GDI,Gender Development Index,0.952,2017
+DNK,Denmark,hdi_m,HDI male,GDI,Gender Development Index,0.951,2018
+DNK,Denmark,hdi_m,HDI male,GDI,Gender Development Index,0.954,2019
+DNK,Denmark,hdi_m,HDI male,GDI,Gender Development Index,0.954,2020
+DNK,Denmark,hdi_m,HDI male,GDI,Gender Development Index,0.956,2021
+DNK,Denmark,hdi_m,HDI male,GDI,Gender Development Index,0.960,2022
+DNK,Denmark,hdi_rank,HDI Rank,HDI,Human Development Index,5,2022
+DNK,Denmark,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,3.406,2014
+DNK,Denmark,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,3.192,2015
+DNK,Denmark,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,3.153,2016
+DNK,Denmark,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,3.012,2017
+DNK,Denmark,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,2.904,2018
+DNK,Denmark,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,2.89,2019
+DNK,Denmark,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,2.844,2020
+DNK,Denmark,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,2.779,2021
+DNK,Denmark,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,2.600,2022
+DNK,Denmark,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,11.078,2010
+DNK,Denmark,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,11.078,2011
+DNK,Denmark,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,11.078,2012
+DNK,Denmark,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,10.644,2013
+DNK,Denmark,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,10.644,2014
+DNK,Denmark,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,10.644,2015
+DNK,Denmark,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,11.137,2016
+DNK,Denmark,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,11.110,2017
+DNK,Denmark,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,11.467,2018
+DNK,Denmark,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,11.091,2019
+DNK,Denmark,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,11.256,2020
+DNK,Denmark,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,10.630,2021
+DNK,Denmark,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,11.019,2022
+DNK,Denmark,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,3.632,2010
+DNK,Denmark,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,3.625,2011
+DNK,Denmark,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,3.522,2012
+DNK,Denmark,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,3.526,2013
+DNK,Denmark,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,3.834,2014
+DNK,Denmark,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,3.600,2015
+DNK,Denmark,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,3.423,2016
+DNK,Denmark,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,3.602,2017
+DNK,Denmark,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,3.532,2018
+DNK,Denmark,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,3.171,2019
+DNK,Denmark,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,3.257,2020
+DNK,Denmark,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,3.006,2021
+DNK,Denmark,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,3.068,2022
+DNK,Denmark,le,Life Expectancy at Birth (years),HDI,Human Development Index,74.864,1990
+DNK,Denmark,le,Life Expectancy at Birth (years),HDI,Human Development Index,75.226,1991
+DNK,Denmark,le,Life Expectancy at Birth (years),HDI,Human Development Index,75.267,1992
+DNK,Denmark,le,Life Expectancy at Birth (years),HDI,Human Development Index,75.188,1993
+DNK,Denmark,le,Life Expectancy at Birth (years),HDI,Human Development Index,75.439,1994
+DNK,Denmark,le,Life Expectancy at Birth (years),HDI,Human Development Index,75.286,1995
+DNK,Denmark,le,Life Expectancy at Birth (years),HDI,Human Development Index,75.662,1996
+DNK,Denmark,le,Life Expectancy at Birth (years),HDI,Human Development Index,76.04,1997
+DNK,Denmark,le,Life Expectancy at Birth (years),HDI,Human Development Index,76.434,1998
+DNK,Denmark,le,Life Expectancy at Birth (years),HDI,Human Development Index,76.576,1999
+DNK,Denmark,le,Life Expectancy at Birth (years),HDI,Human Development Index,76.814,2000
+DNK,Denmark,le,Life Expectancy at Birth (years),HDI,Human Development Index,76.972,2001
+DNK,Denmark,le,Life Expectancy at Birth (years),HDI,Human Development Index,77.097,2002
+DNK,Denmark,le,Life Expectancy at Birth (years),HDI,Human Development Index,77.399,2003
+DNK,Denmark,le,Life Expectancy at Birth (years),HDI,Human Development Index,77.784,2004
+DNK,Denmark,le,Life Expectancy at Birth (years),HDI,Human Development Index,78.224,2005
+DNK,Denmark,le,Life Expectancy at Birth (years),HDI,Human Development Index,78.222,2006
+DNK,Denmark,le,Life Expectancy at Birth (years),HDI,Human Development Index,78.348,2007
+DNK,Denmark,le,Life Expectancy at Birth (years),HDI,Human Development Index,78.713,2008
+DNK,Denmark,le,Life Expectancy at Birth (years),HDI,Human Development Index,78.957,2009
+DNK,Denmark,le,Life Expectancy at Birth (years),HDI,Human Development Index,79.246,2010
+DNK,Denmark,le,Life Expectancy at Birth (years),HDI,Human Development Index,79.784,2011
+DNK,Denmark,le,Life Expectancy at Birth (years),HDI,Human Development Index,80.081,2012
+DNK,Denmark,le,Life Expectancy at Birth (years),HDI,Human Development Index,80.304,2013
+DNK,Denmark,le,Life Expectancy at Birth (years),HDI,Human Development Index,80.63,2014
+DNK,Denmark,le,Life Expectancy at Birth (years),HDI,Human Development Index,80.738,2015
+DNK,Denmark,le,Life Expectancy at Birth (years),HDI,Human Development Index,80.88,2016
+DNK,Denmark,le,Life Expectancy at Birth (years),HDI,Human Development Index,81.111,2017
+DNK,Denmark,le,Life Expectancy at Birth (years),HDI,Human Development Index,80.99,2018
+DNK,Denmark,le,Life Expectancy at Birth (years),HDI,Human Development Index,81.434,2019
+DNK,Denmark,le,Life Expectancy at Birth (years),HDI,Human Development Index,81.545,2020
+DNK,Denmark,le,Life Expectancy at Birth (years),HDI,Human Development Index,81.375,2021
+DNK,Denmark,le,Life Expectancy at Birth (years),HDI,Human Development Index,81.882,2022
+DNK,Denmark,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,77.733,1990
+DNK,Denmark,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,77.976,1991
+DNK,Denmark,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,77.969,1992
+DNK,Denmark,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,77.771,1993
+DNK,Denmark,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,78.095,1994
+DNK,Denmark,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,77.837,1995
+DNK,Denmark,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,78.262,1996
+DNK,Denmark,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,78.473,1997
+DNK,Denmark,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,78.876,1998
+DNK,Denmark,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,78.886,1999
+DNK,Denmark,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,79.122,2000
+DNK,Denmark,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,79.212,2001
+DNK,Denmark,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,79.343,2002
+DNK,Denmark,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,79.738,2003
+DNK,Denmark,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,80.108,2004
+DNK,Denmark,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,80.445,2005
+DNK,Denmark,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,80.511,2006
+DNK,Denmark,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,80.53,2007
+DNK,Denmark,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,80.91,2008
+DNK,Denmark,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,81.032,2009
+DNK,Denmark,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,81.336,2010
+DNK,Denmark,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,81.822,2011
+DNK,Denmark,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,82.037,2012
+DNK,Denmark,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,82.3,2013
+DNK,Denmark,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,82.66,2014
+DNK,Denmark,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,82.68,2015
+DNK,Denmark,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,82.788,2016
+DNK,Denmark,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,83.121,2017
+DNK,Denmark,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,82.955,2018
+DNK,Denmark,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,83.423,2019
+DNK,Denmark,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,83.502,2020
+DNK,Denmark,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,83.276,2021
+DNK,Denmark,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,83.802,2022
+DNK,Denmark,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,72.025,1990
+DNK,Denmark,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,72.471,1991
+DNK,Denmark,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,72.563,1992
+DNK,Denmark,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,72.599,1993
+DNK,Denmark,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,72.78,1994
+DNK,Denmark,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,72.728,1995
+DNK,Denmark,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,73.053,1996
+DNK,Denmark,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,73.561,1997
+DNK,Denmark,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,73.944,1998
+DNK,Denmark,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,74.204,1999
+DNK,Denmark,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,74.44,2000
+DNK,Denmark,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,74.672,2001
+DNK,Denmark,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,74.802,2002
+DNK,Denmark,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,75.024,2003
+DNK,Denmark,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,75.414,2004
+DNK,Denmark,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,75.943,2005
+DNK,Denmark,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,75.899,2006
+DNK,Denmark,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,76.128,2007
+DNK,Denmark,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,76.476,2008
+DNK,Denmark,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,76.836,2009
+DNK,Denmark,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,77.118,2010
+DNK,Denmark,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,77.698,2011
+DNK,Denmark,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,78.071,2012
+DNK,Denmark,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,78.278,2013
+DNK,Denmark,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,78.562,2014
+DNK,Denmark,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,78.764,2015
+DNK,Denmark,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,78.937,2016
+DNK,Denmark,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,79.088,2017
+DNK,Denmark,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,79.02,2018
+DNK,Denmark,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,79.437,2019
+DNK,Denmark,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,79.582,2020
+DNK,Denmark,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,79.485,2021
+DNK,Denmark,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,79.958,2022
+DNK,Denmark,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,61.46,1990
+DNK,Denmark,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,61.71,1991
+DNK,Denmark,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,62.39,1992
+DNK,Denmark,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,61.85,1993
+DNK,Denmark,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,58.29,1994
+DNK,Denmark,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,57.47,1995
+DNK,Denmark,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,58.72,1996
+DNK,Denmark,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,59.01,1997
+DNK,Denmark,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,59.51,1998
+DNK,Denmark,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,60.03,1999
+DNK,Denmark,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,60.22,2000
+DNK,Denmark,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,59.66,2001
+DNK,Denmark,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,60.24,2002
+DNK,Denmark,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,59.94,2003
+DNK,Denmark,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,60.38,2004
+DNK,Denmark,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,60.39,2005
+DNK,Denmark,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,60.93,2006
+DNK,Denmark,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,60.66,2007
+DNK,Denmark,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,59.91,2008
+DNK,Denmark,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,59.65,2009
+DNK,Denmark,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,58.85,2010
+DNK,Denmark,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,58.59,2011
+DNK,Denmark,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,58.15,2012
+DNK,Denmark,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,57.6,2013
+DNK,Denmark,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,57.02,2014
+DNK,Denmark,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,56.73,2015
+DNK,Denmark,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,57.56,2016
+DNK,Denmark,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,57.61,2017
+DNK,Denmark,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,57.56,2018
+DNK,Denmark,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,57.99,2019
+DNK,Denmark,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,57.75,2020
+DNK,Denmark,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,58.11,2021
+DNK,Denmark,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,59.42,2022
+DNK,Denmark,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,75.12,1990
+DNK,Denmark,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,74.46,1991
+DNK,Denmark,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,74.08,1992
+DNK,Denmark,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,73.12,1993
+DNK,Denmark,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,70.72,1994
+DNK,Denmark,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,72.06,1995
+DNK,Denmark,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,71.87,1996
+DNK,Denmark,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,72.11,1997
+DNK,Denmark,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,71.08,1998
+DNK,Denmark,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,71.79,1999
+DNK,Denmark,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,71.07,2000
+DNK,Denmark,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,70.86,2001
+DNK,Denmark,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,71.26,2002
+DNK,Denmark,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,70.56,2003
+DNK,Denmark,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,71.68,2004
+DNK,Denmark,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,71.1,2005
+DNK,Denmark,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,71.11,2006
+DNK,Denmark,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,70.95,2007
+DNK,Denmark,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,70.44,2008
+DNK,Denmark,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,69.3,2009
+DNK,Denmark,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,68.3,2010
+DNK,Denmark,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,67.65,2011
+DNK,Denmark,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,66.6,2012
+DNK,Denmark,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,65.36,2013
+DNK,Denmark,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,65.62,2014
+DNK,Denmark,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,66.02,2015
+DNK,Denmark,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,65.84,2016
+DNK,Denmark,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,65.92,2017
+DNK,Denmark,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,66.17,2018
+DNK,Denmark,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,66.86,2019
+DNK,Denmark,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,66.39,2020
+DNK,Denmark,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,67.11,2021
+DNK,Denmark,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,67.42,2022
+DNK,Denmark,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,6.009,2014
+DNK,Denmark,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,5.876,2015
+DNK,Denmark,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,5.938,2016
+DNK,Denmark,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,6.038,2017
+DNK,Denmark,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,6.051,2018
+DNK,Denmark,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,5.814,2019
+DNK,Denmark,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,5.814,2020
+DNK,Denmark,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,5.491,2021
+DNK,Denmark,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,5.672,2022
+DNK,Denmark,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,18.707,1990
+DNK,Denmark,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,16.849,1991
+DNK,Denmark,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,18.484,1992
+DNK,Denmark,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,18.274,1993
+DNK,Denmark,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,18.709,1994
+DNK,Denmark,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,24.221,1995
+DNK,Denmark,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,24.428,1996
+DNK,Denmark,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,23.965,1997
+DNK,Denmark,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,28.679,1998
+DNK,Denmark,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,30.225,1999
+DNK,Denmark,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,27.666,2000
+DNK,Denmark,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,26.914,2001
+DNK,Denmark,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,27.730,2002
+DNK,Denmark,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,28.057,2003
+DNK,Denmark,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,28.288,2004
+DNK,Denmark,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,31.499,2005
+DNK,Denmark,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,30.231,2006
+DNK,Denmark,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,29.539,2007
+DNK,Denmark,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,29.822,2008
+DNK,Denmark,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,26.243,2009
+DNK,Denmark,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,23.435,2010
+DNK,Denmark,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,24.806,2011
+DNK,Denmark,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,24.474,2012
+DNK,Denmark,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,23.997,2013
+DNK,Denmark,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,23.277,2014
+DNK,Denmark,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,22.005,2015
+DNK,Denmark,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,23.734,2016
+DNK,Denmark,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,23.336,2017
+DNK,Denmark,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,25.177,2018
+DNK,Denmark,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,22.974,2019
+DNK,Denmark,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,23.862,2020
+DNK,Denmark,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,24.146,2021
+DNK,Denmark,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,24.233,2022
+DNK,Denmark,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,11.670,1990
+DNK,Denmark,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,11.313,1991
+DNK,Denmark,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,10.676,1992
+DNK,Denmark,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,10.591,1993
+DNK,Denmark,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,10.323,1994
+DNK,Denmark,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,10.424,1995
+DNK,Denmark,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,9.883,1996
+DNK,Denmark,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,9.651,1997
+DNK,Denmark,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,8.690,1998
+DNK,Denmark,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,8.805,1999
+DNK,Denmark,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,8.035,2000
+DNK,Denmark,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,8.203,2001
+DNK,Denmark,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,8.211,2002
+DNK,Denmark,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,7.659,2003
+DNK,Denmark,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,7.425,2004
+DNK,Denmark,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,6.901,2005
+DNK,Denmark,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,6.629,2006
+DNK,Denmark,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,7.048,2007
+DNK,Denmark,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,6.819,2008
+DNK,Denmark,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,6.816,2009
+DNK,Denmark,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,6.524,2010
+DNK,Denmark,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,6.655,2011
+DNK,Denmark,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,6.313,2012
+DNK,Denmark,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,5.125,2013
+DNK,Denmark,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,5.108,2014
+DNK,Denmark,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,5.601,2015
+DNK,Denmark,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,5.477,2016
+DNK,Denmark,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,4.999,2017
+DNK,Denmark,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,5.013,2018
+DNK,Denmark,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,4.519,2019
+DNK,Denmark,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,4.658,2020
+DNK,Denmark,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,4.658,2021
+DNK,Denmark,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,4.658,2022
+DNK,Denmark,mys,Mean Years of Schooling (years),HDI,Human Development Index,11.475,1990
+DNK,Denmark,mys,Mean Years of Schooling (years),HDI,Human Development Index,11.495,1991
+DNK,Denmark,mys,Mean Years of Schooling (years),HDI,Human Development Index,11.516,1992
+DNK,Denmark,mys,Mean Years of Schooling (years),HDI,Human Development Index,11.536,1993
+DNK,Denmark,mys,Mean Years of Schooling (years),HDI,Human Development Index,11.557,1994
+DNK,Denmark,mys,Mean Years of Schooling (years),HDI,Human Development Index,11.649,1995
+DNK,Denmark,mys,Mean Years of Schooling (years),HDI,Human Development Index,11.814,1996
+DNK,Denmark,mys,Mean Years of Schooling (years),HDI,Human Development Index,11.978,1997
+DNK,Denmark,mys,Mean Years of Schooling (years),HDI,Human Development Index,12.143,1998
+DNK,Denmark,mys,Mean Years of Schooling (years),HDI,Human Development Index,12.307,1999
+DNK,Denmark,mys,Mean Years of Schooling (years),HDI,Human Development Index,12.472,2000
+DNK,Denmark,mys,Mean Years of Schooling (years),HDI,Human Development Index,12.636,2001
+DNK,Denmark,mys,Mean Years of Schooling (years),HDI,Human Development Index,12.801,2002
+DNK,Denmark,mys,Mean Years of Schooling (years),HDI,Human Development Index,12.966,2003
+DNK,Denmark,mys,Mean Years of Schooling (years),HDI,Human Development Index,12.917,2004
+DNK,Denmark,mys,Mean Years of Schooling (years),HDI,Human Development Index,12.828,2005
+DNK,Denmark,mys,Mean Years of Schooling (years),HDI,Human Development Index,12.740,2006
+DNK,Denmark,mys,Mean Years of Schooling (years),HDI,Human Development Index,12.652,2007
+DNK,Denmark,mys,Mean Years of Schooling (years),HDI,Human Development Index,12.884,2008
+DNK,Denmark,mys,Mean Years of Schooling (years),HDI,Human Development Index,12.471,2009
+DNK,Denmark,mys,Mean Years of Schooling (years),HDI,Human Development Index,12.426,2010
+DNK,Denmark,mys,Mean Years of Schooling (years),HDI,Human Development Index,12.466,2011
+DNK,Denmark,mys,Mean Years of Schooling (years),HDI,Human Development Index,12.701,2012
+DNK,Denmark,mys,Mean Years of Schooling (years),HDI,Human Development Index,12.746,2013
+DNK,Denmark,mys,Mean Years of Schooling (years),HDI,Human Development Index,12.388,2014
+DNK,Denmark,mys,Mean Years of Schooling (years),HDI,Human Development Index,12.638,2015
+DNK,Denmark,mys,Mean Years of Schooling (years),HDI,Human Development Index,13.163,2016
+DNK,Denmark,mys,Mean Years of Schooling (years),HDI,Human Development Index,13.012,2017
+DNK,Denmark,mys,Mean Years of Schooling (years),HDI,Human Development Index,12.861,2018
+DNK,Denmark,mys,Mean Years of Schooling (years),HDI,Human Development Index,12.911,2019
+DNK,Denmark,mys,Mean Years of Schooling (years),HDI,Human Development Index,12.960,2020
+DNK,Denmark,mys,Mean Years of Schooling (years),HDI,Human Development Index,12.960,2021
+DNK,Denmark,mys,Mean Years of Schooling (years),HDI,Human Development Index,12.960,2022
+DNK,Denmark,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,11.291,1990
+DNK,Denmark,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,11.318,1991
+DNK,Denmark,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,11.345,1992
+DNK,Denmark,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,11.372,1993
+DNK,Denmark,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,11.399,1994
+DNK,Denmark,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,11.503,1995
+DNK,Denmark,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,11.693,1996
+DNK,Denmark,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,11.884,1997
+DNK,Denmark,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,12.074,1998
+DNK,Denmark,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,12.264,1999
+DNK,Denmark,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,12.454,2000
+DNK,Denmark,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,12.645,2001
+DNK,Denmark,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,12.835,2002
+DNK,Denmark,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,13.025,2003
+DNK,Denmark,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,13.057,2004
+DNK,Denmark,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,12.934,2005
+DNK,Denmark,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,12.811,2006
+DNK,Denmark,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,12.688,2007
+DNK,Denmark,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,12.944,2008
+DNK,Denmark,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,12.684,2009
+DNK,Denmark,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,12.427,2010
+DNK,Denmark,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,12.523,2011
+DNK,Denmark,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,12.821,2012
+DNK,Denmark,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,12.896,2013
+DNK,Denmark,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,12.214,2014
+DNK,Denmark,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,12.784,2015
+DNK,Denmark,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,13.322,2016
+DNK,Denmark,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,13.202,2017
+DNK,Denmark,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,13.082,2018
+DNK,Denmark,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,13.119,2019
+DNK,Denmark,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,13.157,2020
+DNK,Denmark,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,13.157,2021
+DNK,Denmark,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,13.157,2022
+DNK,Denmark,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,11.525,1990
+DNK,Denmark,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,11.571,1991
+DNK,Denmark,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,11.617,1992
+DNK,Denmark,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,11.663,1993
+DNK,Denmark,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,11.709,1994
+DNK,Denmark,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,11.790,1995
+DNK,Denmark,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,11.929,1996
+DNK,Denmark,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,12.068,1997
+DNK,Denmark,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,12.206,1998
+DNK,Denmark,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,12.345,1999
+DNK,Denmark,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,12.484,2000
+DNK,Denmark,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,12.623,2001
+DNK,Denmark,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,12.762,2002
+DNK,Denmark,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,12.900,2003
+DNK,Denmark,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,12.790,2004
+DNK,Denmark,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,12.731,2005
+DNK,Denmark,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,12.673,2006
+DNK,Denmark,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,12.615,2007
+DNK,Denmark,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,12.828,2008
+DNK,Denmark,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,12.269,2009
+DNK,Denmark,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,12.425,2010
+DNK,Denmark,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,12.412,2011
+DNK,Denmark,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,12.583,2012
+DNK,Denmark,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,12.596,2013
+DNK,Denmark,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,12.563,2014
+DNK,Denmark,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,12.493,2015
+DNK,Denmark,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,13.005,2016
+DNK,Denmark,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,12.822,2017
+DNK,Denmark,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,12.639,2018
+DNK,Denmark,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,12.702,2019
+DNK,Denmark,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,12.764,2020
+DNK,Denmark,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,12.764,2021
+DNK,Denmark,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,12.764,2022
+DNK,Denmark,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,32.961,1990
+DNK,Denmark,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,32.961,1991
+DNK,Denmark,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,32.961,1992
+DNK,Denmark,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,32.961,1993
+DNK,Denmark,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,32.961,1994
+DNK,Denmark,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,32.961,1995
+DNK,Denmark,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,32.961,1996
+DNK,Denmark,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,32.961,1997
+DNK,Denmark,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,37.430,1998
+DNK,Denmark,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,37.430,1999
+DNK,Denmark,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,37.430,2000
+DNK,Denmark,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,37.430,2001
+DNK,Denmark,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,37.989,2002
+DNK,Denmark,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,37.989,2003
+DNK,Denmark,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,37.989,2004
+DNK,Denmark,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,36.872,2005
+DNK,Denmark,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,36.872,2006
+DNK,Denmark,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,37.989,2007
+DNK,Denmark,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,37.989,2008
+DNK,Denmark,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,37.989,2009
+DNK,Denmark,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,37.989,2010
+DNK,Denmark,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,39.106,2011
+DNK,Denmark,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,39.106,2012
+DNK,Denmark,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,39.106,2013
+DNK,Denmark,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,39.106,2014
+DNK,Denmark,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,37.430,2015
+DNK,Denmark,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,37.430,2016
+DNK,Denmark,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,37.430,2017
+DNK,Denmark,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,37.430,2018
+DNK,Denmark,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,39.106,2019
+DNK,Denmark,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,39.665,2020
+DNK,Denmark,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,39.665,2021
+DNK,Denmark,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,43.575,2022
+DNK,Denmark,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,67.039,1990
+DNK,Denmark,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,67.039,1991
+DNK,Denmark,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,67.039,1992
+DNK,Denmark,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,67.039,1993
+DNK,Denmark,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,67.039,1994
+DNK,Denmark,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,67.039,1995
+DNK,Denmark,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,67.039,1996
+DNK,Denmark,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,67.039,1997
+DNK,Denmark,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,62.570,1998
+DNK,Denmark,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,62.570,1999
+DNK,Denmark,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,62.570,2000
+DNK,Denmark,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,62.570,2001
+DNK,Denmark,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,62.011,2002
+DNK,Denmark,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,62.011,2003
+DNK,Denmark,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,62.011,2004
+DNK,Denmark,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,63.128,2005
+DNK,Denmark,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,63.128,2006
+DNK,Denmark,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,62.011,2007
+DNK,Denmark,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,62.011,2008
+DNK,Denmark,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,62.011,2009
+DNK,Denmark,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,62.011,2010
+DNK,Denmark,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,60.894,2011
+DNK,Denmark,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,60.894,2012
+DNK,Denmark,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,60.894,2013
+DNK,Denmark,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,60.894,2014
+DNK,Denmark,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,62.570,2015
+DNK,Denmark,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,62.570,2016
+DNK,Denmark,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,62.570,2017
+DNK,Denmark,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,62.570,2018
+DNK,Denmark,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,60.894,2019
+DNK,Denmark,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,60.335,2020
+DNK,Denmark,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,60.335,2021
+DNK,Denmark,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,56.425,2022
+DNK,Denmark,rankdiff_hdi_phdi,Difference from HDI rank,PHDI,Planetary pressures–adjusted Human Development Index,2,2022
+DNK,Denmark,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,96.218,1990
+DNK,Denmark,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,96.467,1991
+DNK,Denmark,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,96.717,1992
+DNK,Denmark,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,96.967,1993
+DNK,Denmark,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,97.217,1994
+DNK,Denmark,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,97.467,1995
+DNK,Denmark,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,97.716,1996
+DNK,Denmark,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,97.966,1997
+DNK,Denmark,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,98.216,1998
+DNK,Denmark,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,98.466,1999
+DNK,Denmark,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,98.716,2000
+DNK,Denmark,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,98.966,2001
+DNK,Denmark,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,99.215,2002
+DNK,Denmark,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,99.465,2003
+DNK,Denmark,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,99.424,2004
+DNK,Denmark,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,99.383,2005
+DNK,Denmark,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,99.341,2006
+DNK,Denmark,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,99.300,2007
+DNK,Denmark,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,99.383,2008
+DNK,Denmark,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,99.466,2009
+DNK,Denmark,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,96.065,2010
+DNK,Denmark,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,96.478,2011
+DNK,Denmark,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,99.524,2012
+DNK,Denmark,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,99.703,2013
+DNK,Denmark,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,91.512,2014
+DNK,Denmark,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,91.628,2015
+DNK,Denmark,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,92.321,2016
+DNK,Denmark,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,93.041,2017
+DNK,Denmark,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,93.761,2018
+DNK,Denmark,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,94.414,2019
+DNK,Denmark,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,95.067,2020
+DNK,Denmark,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,95.067,2021
+DNK,Denmark,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,95.067,2022
+DNK,Denmark,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,96.392,1990
+DNK,Denmark,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,96.669,1991
+DNK,Denmark,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,96.946,1992
+DNK,Denmark,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,97.224,1993
+DNK,Denmark,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,97.502,1994
+DNK,Denmark,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,97.779,1995
+DNK,Denmark,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,98.057,1996
+DNK,Denmark,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,98.334,1997
+DNK,Denmark,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,98.612,1998
+DNK,Denmark,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,98.890,1999
+DNK,Denmark,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,99.167,2000
+DNK,Denmark,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,99.445,2001
+DNK,Denmark,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,99.722,2002
+DNK,Denmark,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,100,2003
+DNK,Denmark,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,99.850,2004
+DNK,Denmark,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,99.700,2005
+DNK,Denmark,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,99.550,2006
+DNK,Denmark,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,99.401,2007
+DNK,Denmark,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,96.937,2008
+DNK,Denmark,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,94.474,2009
+DNK,Denmark,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,96.703,2010
+DNK,Denmark,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,97.286,2011
+DNK,Denmark,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,99.763,2012
+DNK,Denmark,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,99.468,2013
+DNK,Denmark,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,91.459,2014
+DNK,Denmark,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,92.506,2015
+DNK,Denmark,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,92.573,2016
+DNK,Denmark,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,93.216,2017
+DNK,Denmark,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,93.858,2018
+DNK,Denmark,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,94.548,2019
+DNK,Denmark,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,95.238,2020
+DNK,Denmark,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,95.238,2021
+DNK,Denmark,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,95.238,2022
