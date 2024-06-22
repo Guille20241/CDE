@@ -1,0 +1,400 @@
+Country Name,Country ISO3,Year,Indicator Name,Indicator Code,Value
+#country+name,#country+code,#date+year,#indicator+name,#indicator+code,#indicator+value+num
+Denmark,DNK,2021,Income share held by second 20%,SI.DST.02ND.20,13.9
+Denmark,DNK,2020,Income share held by second 20%,SI.DST.02ND.20,14
+Denmark,DNK,2019,Income share held by second 20%,SI.DST.02ND.20,14
+Denmark,DNK,2018,Income share held by second 20%,SI.DST.02ND.20,13.8
+Denmark,DNK,2017,Income share held by second 20%,SI.DST.02ND.20,13.7
+Denmark,DNK,2016,Income share held by second 20%,SI.DST.02ND.20,13.9
+Denmark,DNK,2015,Income share held by second 20%,SI.DST.02ND.20,13.9
+Denmark,DNK,2014,Income share held by second 20%,SI.DST.02ND.20,13.9
+Denmark,DNK,2013,Income share held by second 20%,SI.DST.02ND.20,13.8
+Denmark,DNK,2012,Income share held by second 20%,SI.DST.02ND.20,14
+Denmark,DNK,2011,Income share held by second 20%,SI.DST.02ND.20,14
+Denmark,DNK,2010,Income share held by second 20%,SI.DST.02ND.20,14.1
+Denmark,DNK,2009,Income share held by second 20%,SI.DST.02ND.20,14.3
+Denmark,DNK,2008,Income share held by second 20%,SI.DST.02ND.20,14.5
+Denmark,DNK,2007,Income share held by second 20%,SI.DST.02ND.20,14.4
+Denmark,DNK,2006,Income share held by second 20%,SI.DST.02ND.20,14.3
+Denmark,DNK,2005,Income share held by second 20%,SI.DST.02ND.20,14.6
+Denmark,DNK,2004,Income share held by second 20%,SI.DST.02ND.20,14.5
+Denmark,DNK,2003,Income share held by second 20%,SI.DST.02ND.20,14.3
+Denmark,DNK,2000,Income share held by second 20%,SI.DST.02ND.20,14.7
+Denmark,DNK,1995,Income share held by second 20%,SI.DST.02ND.20,14.9
+Denmark,DNK,1992,Income share held by second 20%,SI.DST.02ND.20,14.9
+Denmark,DNK,1987,Income share held by second 20%,SI.DST.02ND.20,14.4
+Denmark,DNK,2021,Income share held by third 20%,SI.DST.03RD.20,17.3
+Denmark,DNK,2020,Income share held by third 20%,SI.DST.03RD.20,17.5
+Denmark,DNK,2019,Income share held by third 20%,SI.DST.03RD.20,17.3
+Denmark,DNK,2018,Income share held by third 20%,SI.DST.03RD.20,17.3
+Denmark,DNK,2017,Income share held by third 20%,SI.DST.03RD.20,17.2
+Denmark,DNK,2016,Income share held by third 20%,SI.DST.03RD.20,17.4
+Denmark,DNK,2015,Income share held by third 20%,SI.DST.03RD.20,17.2
+Denmark,DNK,2014,Income share held by third 20%,SI.DST.03RD.20,17.3
+Denmark,DNK,2013,Income share held by third 20%,SI.DST.03RD.20,17.3
+Denmark,DNK,2012,Income share held by third 20%,SI.DST.03RD.20,17.4
+Denmark,DNK,2011,Income share held by third 20%,SI.DST.03RD.20,17.5
+Denmark,DNK,2010,Income share held by third 20%,SI.DST.03RD.20,17.6
+Denmark,DNK,2009,Income share held by third 20%,SI.DST.03RD.20,17.9
+Denmark,DNK,2008,Income share held by third 20%,SI.DST.03RD.20,18
+Denmark,DNK,2007,Income share held by third 20%,SI.DST.03RD.20,17.6
+Denmark,DNK,2006,Income share held by third 20%,SI.DST.03RD.20,17.7
+Denmark,DNK,2005,Income share held by third 20%,SI.DST.03RD.20,17.9
+Denmark,DNK,2004,Income share held by third 20%,SI.DST.03RD.20,18
+Denmark,DNK,2003,Income share held by third 20%,SI.DST.03RD.20,17.9
+Denmark,DNK,2000,Income share held by third 20%,SI.DST.03RD.20,18.1
+Denmark,DNK,1995,Income share held by third 20%,SI.DST.03RD.20,18.2
+Denmark,DNK,1992,Income share held by third 20%,SI.DST.03RD.20,18.2
+Denmark,DNK,1987,Income share held by third 20%,SI.DST.03RD.20,17.9
+Denmark,DNK,2021,Income share held by fourth 20%,SI.DST.04TH.20,21.8
+Denmark,DNK,2020,Income share held by fourth 20%,SI.DST.04TH.20,22.1
+Denmark,DNK,2019,Income share held by fourth 20%,SI.DST.04TH.20,21.9
+Denmark,DNK,2018,Income share held by fourth 20%,SI.DST.04TH.20,21.9
+Denmark,DNK,2017,Income share held by fourth 20%,SI.DST.04TH.20,21.9
+Denmark,DNK,2016,Income share held by fourth 20%,SI.DST.04TH.20,22
+Denmark,DNK,2015,Income share held by fourth 20%,SI.DST.04TH.20,21.8
+Denmark,DNK,2014,Income share held by fourth 20%,SI.DST.04TH.20,22
+Denmark,DNK,2013,Income share held by fourth 20%,SI.DST.04TH.20,21.9
+Denmark,DNK,2012,Income share held by fourth 20%,SI.DST.04TH.20,22.1
+Denmark,DNK,2011,Income share held by fourth 20%,SI.DST.04TH.20,22.3
+Denmark,DNK,2010,Income share held by fourth 20%,SI.DST.04TH.20,22.3
+Denmark,DNK,2009,Income share held by fourth 20%,SI.DST.04TH.20,22.5
+Denmark,DNK,2008,Income share held by fourth 20%,SI.DST.04TH.20,22.5
+Denmark,DNK,2007,Income share held by fourth 20%,SI.DST.04TH.20,22.1
+Denmark,DNK,2006,Income share held by fourth 20%,SI.DST.04TH.20,22.3
+Denmark,DNK,2005,Income share held by fourth 20%,SI.DST.04TH.20,22.5
+Denmark,DNK,2004,Income share held by fourth 20%,SI.DST.04TH.20,22.6
+Denmark,DNK,2003,Income share held by fourth 20%,SI.DST.04TH.20,22.5
+Denmark,DNK,2000,Income share held by fourth 20%,SI.DST.04TH.20,22.6
+Denmark,DNK,1995,Income share held by fourth 20%,SI.DST.04TH.20,22.5
+Denmark,DNK,1992,Income share held by fourth 20%,SI.DST.04TH.20,22.6
+Denmark,DNK,1987,Income share held by fourth 20%,SI.DST.04TH.20,22.5
+Denmark,DNK,2021,Income share held by highest 20%,SI.DST.05TH.20,37.8
+Denmark,DNK,2020,Income share held by highest 20%,SI.DST.05TH.20,37
+Denmark,DNK,2019,Income share held by highest 20%,SI.DST.05TH.20,37.3
+Denmark,DNK,2018,Income share held by highest 20%,SI.DST.05TH.20,37.7
+Denmark,DNK,2017,Income share held by highest 20%,SI.DST.05TH.20,38.1
+Denmark,DNK,2016,Income share held by highest 20%,SI.DST.05TH.20,37.6
+Denmark,DNK,2015,Income share held by highest 20%,SI.DST.05TH.20,37.7
+Denmark,DNK,2014,Income share held by highest 20%,SI.DST.05TH.20,37.7
+Denmark,DNK,2013,Income share held by highest 20%,SI.DST.05TH.20,37.9
+Denmark,DNK,2012,Income share held by highest 20%,SI.DST.05TH.20,37.3
+Denmark,DNK,2011,Income share held by highest 20%,SI.DST.05TH.20,36.8
+Denmark,DNK,2010,Income share held by highest 20%,SI.DST.05TH.20,36.7
+Denmark,DNK,2009,Income share held by highest 20%,SI.DST.05TH.20,36.1
+Denmark,DNK,2008,Income share held by highest 20%,SI.DST.05TH.20,35.2
+Denmark,DNK,2007,Income share held by highest 20%,SI.DST.05TH.20,36.1
+Denmark,DNK,2006,Income share held by highest 20%,SI.DST.05TH.20,35.8
+Denmark,DNK,2005,Income share held by highest 20%,SI.DST.05TH.20,35.2
+Denmark,DNK,2004,Income share held by highest 20%,SI.DST.05TH.20,34.9
+Denmark,DNK,2003,Income share held by highest 20%,SI.DST.05TH.20,35.5
+Denmark,DNK,2000,Income share held by highest 20%,SI.DST.05TH.20,34.2
+Denmark,DNK,1995,Income share held by highest 20%,SI.DST.05TH.20,33.6
+Denmark,DNK,1992,Income share held by highest 20%,SI.DST.05TH.20,34.5
+Denmark,DNK,1987,Income share held by highest 20%,SI.DST.05TH.20,35.7
+Denmark,DNK,2021,Income share held by highest 10%,SI.DST.10TH.10,23.8
+Denmark,DNK,2020,Income share held by highest 10%,SI.DST.10TH.10,22.9
+Denmark,DNK,2019,Income share held by highest 10%,SI.DST.10TH.10,23.5
+Denmark,DNK,2018,Income share held by highest 10%,SI.DST.10TH.10,23.5
+Denmark,DNK,2017,Income share held by highest 10%,SI.DST.10TH.10,24
+Denmark,DNK,2016,Income share held by highest 10%,SI.DST.10TH.10,23.7
+Denmark,DNK,2015,Income share held by highest 10%,SI.DST.10TH.10,23.8
+Denmark,DNK,2014,Income share held by highest 10%,SI.DST.10TH.10,23.6
+Denmark,DNK,2013,Income share held by highest 10%,SI.DST.10TH.10,23.7
+Denmark,DNK,2012,Income share held by highest 10%,SI.DST.10TH.10,23.1
+Denmark,DNK,2011,Income share held by highest 10%,SI.DST.10TH.10,22.7
+Denmark,DNK,2010,Income share held by highest 10%,SI.DST.10TH.10,22.5
+Denmark,DNK,2009,Income share held by highest 10%,SI.DST.10TH.10,21.8
+Denmark,DNK,2008,Income share held by highest 10%,SI.DST.10TH.10,21
+Denmark,DNK,2007,Income share held by highest 10%,SI.DST.10TH.10,22.1
+Denmark,DNK,2006,Income share held by highest 10%,SI.DST.10TH.10,21.8
+Denmark,DNK,2005,Income share held by highest 10%,SI.DST.10TH.10,21
+Denmark,DNK,2004,Income share held by highest 10%,SI.DST.10TH.10,20.7
+Denmark,DNK,2003,Income share held by highest 10%,SI.DST.10TH.10,21.4
+Denmark,DNK,2000,Income share held by highest 10%,SI.DST.10TH.10,20.1
+Denmark,DNK,1995,Income share held by highest 10%,SI.DST.10TH.10,19.8
+Denmark,DNK,1992,Income share held by highest 10%,SI.DST.10TH.10,20.5
+Denmark,DNK,1987,Income share held by highest 10%,SI.DST.10TH.10,21.6
+Denmark,DNK,2021,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,7.2
+Denmark,DNK,2020,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,6.8
+Denmark,DNK,2019,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,5.9
+Denmark,DNK,2018,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,6.6
+Denmark,DNK,2017,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,6.9
+Denmark,DNK,2016,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,6.7
+Denmark,DNK,2015,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,5.9
+Denmark,DNK,2014,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,6.8
+Denmark,DNK,2013,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,6.7
+Denmark,DNK,2012,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,6.2
+Denmark,DNK,2011,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,6.5
+Denmark,DNK,2010,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,7
+Denmark,DNK,2009,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,6.9
+Denmark,DNK,2008,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,5.7
+Denmark,DNK,2007,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,5.4
+Denmark,DNK,2006,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,5.7
+Denmark,DNK,2005,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,5.9
+Denmark,DNK,2004,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,5.8
+Denmark,DNK,2003,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,5.7
+Denmark,DNK,2000,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,4.5
+Denmark,DNK,1995,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,4.2
+Denmark,DNK,1992,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,6.2
+Denmark,DNK,1987,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,6
+Denmark,DNK,2021,Income share held by lowest 10%,SI.DST.FRST.10,3.7
+Denmark,DNK,2020,Income share held by lowest 10%,SI.DST.FRST.10,3.7
+Denmark,DNK,2019,Income share held by lowest 10%,SI.DST.FRST.10,3.8
+Denmark,DNK,2018,Income share held by lowest 10%,SI.DST.FRST.10,3.7
+Denmark,DNK,2017,Income share held by lowest 10%,SI.DST.FRST.10,3.7
+Denmark,DNK,2016,Income share held by lowest 10%,SI.DST.FRST.10,3.7
+Denmark,DNK,2015,Income share held by lowest 10%,SI.DST.FRST.10,3.7
+Denmark,DNK,2014,Income share held by lowest 10%,SI.DST.FRST.10,3.4
+Denmark,DNK,2013,Income share held by lowest 10%,SI.DST.FRST.10,3.6
+Denmark,DNK,2012,Income share held by lowest 10%,SI.DST.FRST.10,3.7
+Denmark,DNK,2011,Income share held by lowest 10%,SI.DST.FRST.10,3.7
+Denmark,DNK,2010,Income share held by lowest 10%,SI.DST.FRST.10,3.7
+Denmark,DNK,2009,Income share held by lowest 10%,SI.DST.FRST.10,3.5
+Denmark,DNK,2008,Income share held by lowest 10%,SI.DST.FRST.10,3.9
+Denmark,DNK,2007,Income share held by lowest 10%,SI.DST.FRST.10,3.9
+Denmark,DNK,2006,Income share held by lowest 10%,SI.DST.FRST.10,4
+Denmark,DNK,2005,Income share held by lowest 10%,SI.DST.FRST.10,4
+Denmark,DNK,2004,Income share held by lowest 10%,SI.DST.FRST.10,4
+Denmark,DNK,2003,Income share held by lowest 10%,SI.DST.FRST.10,4
+Denmark,DNK,2000,Income share held by lowest 10%,SI.DST.FRST.10,4.4
+Denmark,DNK,1995,Income share held by lowest 10%,SI.DST.FRST.10,4.5
+Denmark,DNK,1992,Income share held by lowest 10%,SI.DST.FRST.10,3.8
+Denmark,DNK,1987,Income share held by lowest 10%,SI.DST.FRST.10,3.6
+Denmark,DNK,2021,Income share held by lowest 20%,SI.DST.FRST.20,9.2
+Denmark,DNK,2020,Income share held by lowest 20%,SI.DST.FRST.20,9.4
+Denmark,DNK,2019,Income share held by lowest 20%,SI.DST.FRST.20,9.5
+Denmark,DNK,2018,Income share held by lowest 20%,SI.DST.FRST.20,9.3
+Denmark,DNK,2017,Income share held by lowest 20%,SI.DST.FRST.20,9.1
+Denmark,DNK,2016,Income share held by lowest 20%,SI.DST.FRST.20,9.2
+Denmark,DNK,2015,Income share held by lowest 20%,SI.DST.FRST.20,9.4
+Denmark,DNK,2014,Income share held by lowest 20%,SI.DST.FRST.20,9.1
+Denmark,DNK,2013,Income share held by lowest 20%,SI.DST.FRST.20,9.1
+Denmark,DNK,2012,Income share held by lowest 20%,SI.DST.FRST.20,9.3
+Denmark,DNK,2011,Income share held by lowest 20%,SI.DST.FRST.20,9.4
+Denmark,DNK,2010,Income share held by lowest 20%,SI.DST.FRST.20,9.3
+Denmark,DNK,2009,Income share held by lowest 20%,SI.DST.FRST.20,9.2
+Denmark,DNK,2008,Income share held by lowest 20%,SI.DST.FRST.20,9.8
+Denmark,DNK,2007,Income share held by lowest 20%,SI.DST.FRST.20,9.8
+Denmark,DNK,2006,Income share held by lowest 20%,SI.DST.FRST.20,9.8
+Denmark,DNK,2005,Income share held by lowest 20%,SI.DST.FRST.20,9.8
+Denmark,DNK,2004,Income share held by lowest 20%,SI.DST.FRST.20,9.9
+Denmark,DNK,2003,Income share held by lowest 20%,SI.DST.FRST.20,9.8
+Denmark,DNK,2000,Income share held by lowest 20%,SI.DST.FRST.20,10.4
+Denmark,DNK,1995,Income share held by lowest 20%,SI.DST.FRST.20,10.7
+Denmark,DNK,1992,Income share held by lowest 20%,SI.DST.FRST.20,9.8
+Denmark,DNK,1987,Income share held by lowest 20%,SI.DST.FRST.20,9.4
+Denmark,DNK,2021,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,0.2
+Denmark,DNK,2020,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,0.2
+Denmark,DNK,2019,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,0.3
+Denmark,DNK,2018,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,0.2
+Denmark,DNK,2017,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,0.1
+Denmark,DNK,2016,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,0.3
+Denmark,DNK,2015,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,0.2
+Denmark,DNK,2014,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,0.2
+Denmark,DNK,2013,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,0.3
+Denmark,DNK,2012,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,0
+Denmark,DNK,2011,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,0
+Denmark,DNK,2010,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,0.1
+Denmark,DNK,2009,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,0.5
+Denmark,DNK,2008,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,0.1
+Denmark,DNK,2007,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,0
+Denmark,DNK,2006,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,0.1
+Denmark,DNK,2005,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,0.3
+Denmark,DNK,2004,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,0.3
+Denmark,DNK,2003,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,0.3
+Denmark,DNK,2000,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,0
+Denmark,DNK,1995,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,0
+Denmark,DNK,1992,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,0.5
+Denmark,DNK,1987,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,0.5
+Denmark,DNK,2021,Poverty gap at $2.15 a day (2017 PPP) (%),SI.POV.GAPS,0.1
+Denmark,DNK,2020,Poverty gap at $2.15 a day (2017 PPP) (%),SI.POV.GAPS,0.1
+Denmark,DNK,2019,Poverty gap at $2.15 a day (2017 PPP) (%),SI.POV.GAPS,0.2
+Denmark,DNK,2018,Poverty gap at $2.15 a day (2017 PPP) (%),SI.POV.GAPS,0.1
+Denmark,DNK,2017,Poverty gap at $2.15 a day (2017 PPP) (%),SI.POV.GAPS,0.1
+Denmark,DNK,2016,Poverty gap at $2.15 a day (2017 PPP) (%),SI.POV.GAPS,0.2
+Denmark,DNK,2015,Poverty gap at $2.15 a day (2017 PPP) (%),SI.POV.GAPS,0.1
+Denmark,DNK,2014,Poverty gap at $2.15 a day (2017 PPP) (%),SI.POV.GAPS,0.1
+Denmark,DNK,2013,Poverty gap at $2.15 a day (2017 PPP) (%),SI.POV.GAPS,0.3
+Denmark,DNK,2012,Poverty gap at $2.15 a day (2017 PPP) (%),SI.POV.GAPS,0
+Denmark,DNK,2011,Poverty gap at $2.15 a day (2017 PPP) (%),SI.POV.GAPS,0
+Denmark,DNK,2010,Poverty gap at $2.15 a day (2017 PPP) (%),SI.POV.GAPS,0
+Denmark,DNK,2009,Poverty gap at $2.15 a day (2017 PPP) (%),SI.POV.GAPS,0.1
+Denmark,DNK,2008,Poverty gap at $2.15 a day (2017 PPP) (%),SI.POV.GAPS,0.1
+Denmark,DNK,2007,Poverty gap at $2.15 a day (2017 PPP) (%),SI.POV.GAPS,0
+Denmark,DNK,2006,Poverty gap at $2.15 a day (2017 PPP) (%),SI.POV.GAPS,0
+Denmark,DNK,2005,Poverty gap at $2.15 a day (2017 PPP) (%),SI.POV.GAPS,0.1
+Denmark,DNK,2004,Poverty gap at $2.15 a day (2017 PPP) (%),SI.POV.GAPS,0.2
+Denmark,DNK,2003,Poverty gap at $2.15 a day (2017 PPP) (%),SI.POV.GAPS,0.2
+Denmark,DNK,2000,Poverty gap at $2.15 a day (2017 PPP) (%),SI.POV.GAPS,0
+Denmark,DNK,1995,Poverty gap at $2.15 a day (2017 PPP) (%),SI.POV.GAPS,0
+Denmark,DNK,1992,Poverty gap at $2.15 a day (2017 PPP) (%),SI.POV.GAPS,0.5
+Denmark,DNK,1987,Poverty gap at $2.15 a day (2017 PPP) (%),SI.POV.GAPS,0.5
+Denmark,DNK,2021,Gini index,SI.POV.GINI,28.3
+Denmark,DNK,2020,Gini index,SI.POV.GINI,27.5
+Denmark,DNK,2019,Gini index,SI.POV.GINI,27.7
+Denmark,DNK,2018,Gini index,SI.POV.GINI,28.2
+Denmark,DNK,2017,Gini index,SI.POV.GINI,28.7
+Denmark,DNK,2016,Gini index,SI.POV.GINI,28.2
+Denmark,DNK,2015,Gini index,SI.POV.GINI,28.2
+Denmark,DNK,2014,Gini index,SI.POV.GINI,28.4
+Denmark,DNK,2013,Gini index,SI.POV.GINI,28.5
+Denmark,DNK,2012,Gini index,SI.POV.GINI,27.8
+Denmark,DNK,2011,Gini index,SI.POV.GINI,27.3
+Denmark,DNK,2010,Gini index,SI.POV.GINI,27.2
+Denmark,DNK,2009,Gini index,SI.POV.GINI,26.7
+Denmark,DNK,2008,Gini index,SI.POV.GINI,25.2
+Denmark,DNK,2007,Gini index,SI.POV.GINI,26.2
+Denmark,DNK,2006,Gini index,SI.POV.GINI,25.9
+Denmark,DNK,2005,Gini index,SI.POV.GINI,25.2
+Denmark,DNK,2004,Gini index,SI.POV.GINI,24.9
+Denmark,DNK,2003,Gini index,SI.POV.GINI,25.6
+Denmark,DNK,2000,Gini index,SI.POV.GINI,23.8
+Denmark,DNK,1995,Gini index,SI.POV.GINI,23
+Denmark,DNK,1992,Gini index,SI.POV.GINI,24.7
+Denmark,DNK,1987,Gini index,SI.POV.GINI,26.2
+Denmark,DNK,2021,Poverty headcount ratio at $3.65 a day (2017 PPP) (% of population),SI.POV.LMIC,0.2
+Denmark,DNK,2020,Poverty headcount ratio at $3.65 a day (2017 PPP) (% of population),SI.POV.LMIC,0.2
+Denmark,DNK,2019,Poverty headcount ratio at $3.65 a day (2017 PPP) (% of population),SI.POV.LMIC,0.3
+Denmark,DNK,2018,Poverty headcount ratio at $3.65 a day (2017 PPP) (% of population),SI.POV.LMIC,0.2
+Denmark,DNK,2017,Poverty headcount ratio at $3.65 a day (2017 PPP) (% of population),SI.POV.LMIC,0.2
+Denmark,DNK,2016,Poverty headcount ratio at $3.65 a day (2017 PPP) (% of population),SI.POV.LMIC,0.3
+Denmark,DNK,2015,Poverty headcount ratio at $3.65 a day (2017 PPP) (% of population),SI.POV.LMIC,0.3
+Denmark,DNK,2014,Poverty headcount ratio at $3.65 a day (2017 PPP) (% of population),SI.POV.LMIC,0.2
+Denmark,DNK,2013,Poverty headcount ratio at $3.65 a day (2017 PPP) (% of population),SI.POV.LMIC,0.3
+Denmark,DNK,2012,Poverty headcount ratio at $3.65 a day (2017 PPP) (% of population),SI.POV.LMIC,0
+Denmark,DNK,2011,Poverty headcount ratio at $3.65 a day (2017 PPP) (% of population),SI.POV.LMIC,0
+Denmark,DNK,2010,Poverty headcount ratio at $3.65 a day (2017 PPP) (% of population),SI.POV.LMIC,0.1
+Denmark,DNK,2009,Poverty headcount ratio at $3.65 a day (2017 PPP) (% of population),SI.POV.LMIC,0.6
+Denmark,DNK,2008,Poverty headcount ratio at $3.65 a day (2017 PPP) (% of population),SI.POV.LMIC,0.4
+Denmark,DNK,2007,Poverty headcount ratio at $3.65 a day (2017 PPP) (% of population),SI.POV.LMIC,0.3
+Denmark,DNK,2006,Poverty headcount ratio at $3.65 a day (2017 PPP) (% of population),SI.POV.LMIC,0.2
+Denmark,DNK,2005,Poverty headcount ratio at $3.65 a day (2017 PPP) (% of population),SI.POV.LMIC,0.3
+Denmark,DNK,2004,Poverty headcount ratio at $3.65 a day (2017 PPP) (% of population),SI.POV.LMIC,0.3
+Denmark,DNK,2003,Poverty headcount ratio at $3.65 a day (2017 PPP) (% of population),SI.POV.LMIC,0.4
+Denmark,DNK,2000,Poverty headcount ratio at $3.65 a day (2017 PPP) (% of population),SI.POV.LMIC,0
+Denmark,DNK,1995,Poverty headcount ratio at $3.65 a day (2017 PPP) (% of population),SI.POV.LMIC,0.2
+Denmark,DNK,1992,Poverty headcount ratio at $3.65 a day (2017 PPP) (% of population),SI.POV.LMIC,0.7
+Denmark,DNK,1987,Poverty headcount ratio at $3.65 a day (2017 PPP) (% of population),SI.POV.LMIC,0.7
+Denmark,DNK,2021,Poverty gap at $3.65 a day (2017 PPP) (%),SI.POV.LMIC.GP,0.1
+Denmark,DNK,2020,Poverty gap at $3.65 a day (2017 PPP) (%),SI.POV.LMIC.GP,0.2
+Denmark,DNK,2019,Poverty gap at $3.65 a day (2017 PPP) (%),SI.POV.LMIC.GP,0.2
+Denmark,DNK,2018,Poverty gap at $3.65 a day (2017 PPP) (%),SI.POV.LMIC.GP,0.2
+Denmark,DNK,2017,Poverty gap at $3.65 a day (2017 PPP) (%),SI.POV.LMIC.GP,0.1
+Denmark,DNK,2016,Poverty gap at $3.65 a day (2017 PPP) (%),SI.POV.LMIC.GP,0.2
+Denmark,DNK,2015,Poverty gap at $3.65 a day (2017 PPP) (%),SI.POV.LMIC.GP,0.2
+Denmark,DNK,2014,Poverty gap at $3.65 a day (2017 PPP) (%),SI.POV.LMIC.GP,0.1
+Denmark,DNK,2013,Poverty gap at $3.65 a day (2017 PPP) (%),SI.POV.LMIC.GP,0.3
+Denmark,DNK,2012,Poverty gap at $3.65 a day (2017 PPP) (%),SI.POV.LMIC.GP,0
+Denmark,DNK,2011,Poverty gap at $3.65 a day (2017 PPP) (%),SI.POV.LMIC.GP,0
+Denmark,DNK,2010,Poverty gap at $3.65 a day (2017 PPP) (%),SI.POV.LMIC.GP,0
+Denmark,DNK,2009,Poverty gap at $3.65 a day (2017 PPP) (%),SI.POV.LMIC.GP,0.3
+Denmark,DNK,2008,Poverty gap at $3.65 a day (2017 PPP) (%),SI.POV.LMIC.GP,0.2
+Denmark,DNK,2007,Poverty gap at $3.65 a day (2017 PPP) (%),SI.POV.LMIC.GP,0.1
+Denmark,DNK,2006,Poverty gap at $3.65 a day (2017 PPP) (%),SI.POV.LMIC.GP,0.1
+Denmark,DNK,2005,Poverty gap at $3.65 a day (2017 PPP) (%),SI.POV.LMIC.GP,0.2
+Denmark,DNK,2004,Poverty gap at $3.65 a day (2017 PPP) (%),SI.POV.LMIC.GP,0.3
+Denmark,DNK,2003,Poverty gap at $3.65 a day (2017 PPP) (%),SI.POV.LMIC.GP,0.3
+Denmark,DNK,2000,Poverty gap at $3.65 a day (2017 PPP) (%),SI.POV.LMIC.GP,0
+Denmark,DNK,1995,Poverty gap at $3.65 a day (2017 PPP) (%),SI.POV.LMIC.GP,0
+Denmark,DNK,1992,Poverty gap at $3.65 a day (2017 PPP) (%),SI.POV.LMIC.GP,0.5
+Denmark,DNK,1987,Poverty gap at $3.65 a day (2017 PPP) (%),SI.POV.LMIC.GP,0.6
+Denmark,DNK,2021,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,12.4
+Denmark,DNK,2020,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,12.3
+Denmark,DNK,2019,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,12.1
+Denmark,DNK,2021,Poverty headcount ratio at $6.85 a day (2017 PPP) (% of population),SI.POV.UMIC,0.3
+Denmark,DNK,2020,Poverty headcount ratio at $6.85 a day (2017 PPP) (% of population),SI.POV.UMIC,0.4
+Denmark,DNK,2019,Poverty headcount ratio at $6.85 a day (2017 PPP) (% of population),SI.POV.UMIC,0.4
+Denmark,DNK,2018,Poverty headcount ratio at $6.85 a day (2017 PPP) (% of population),SI.POV.UMIC,0.3
+Denmark,DNK,2017,Poverty headcount ratio at $6.85 a day (2017 PPP) (% of population),SI.POV.UMIC,0.3
+Denmark,DNK,2016,Poverty headcount ratio at $6.85 a day (2017 PPP) (% of population),SI.POV.UMIC,0.5
+Denmark,DNK,2015,Poverty headcount ratio at $6.85 a day (2017 PPP) (% of population),SI.POV.UMIC,0.4
+Denmark,DNK,2014,Poverty headcount ratio at $6.85 a day (2017 PPP) (% of population),SI.POV.UMIC,0.7
+Denmark,DNK,2013,Poverty headcount ratio at $6.85 a day (2017 PPP) (% of population),SI.POV.UMIC,0.6
+Denmark,DNK,2012,Poverty headcount ratio at $6.85 a day (2017 PPP) (% of population),SI.POV.UMIC,0.4
+Denmark,DNK,2011,Poverty headcount ratio at $6.85 a day (2017 PPP) (% of population),SI.POV.UMIC,0.6
+Denmark,DNK,2010,Poverty headcount ratio at $6.85 a day (2017 PPP) (% of population),SI.POV.UMIC,0.2
+Denmark,DNK,2009,Poverty headcount ratio at $6.85 a day (2017 PPP) (% of population),SI.POV.UMIC,1
+Denmark,DNK,2008,Poverty headcount ratio at $6.85 a day (2017 PPP) (% of population),SI.POV.UMIC,0.8
+Denmark,DNK,2007,Poverty headcount ratio at $6.85 a day (2017 PPP) (% of population),SI.POV.UMIC,0.6
+Denmark,DNK,2006,Poverty headcount ratio at $6.85 a day (2017 PPP) (% of population),SI.POV.UMIC,0.3
+Denmark,DNK,2005,Poverty headcount ratio at $6.85 a day (2017 PPP) (% of population),SI.POV.UMIC,0.5
+Denmark,DNK,2004,Poverty headcount ratio at $6.85 a day (2017 PPP) (% of population),SI.POV.UMIC,0.4
+Denmark,DNK,2003,Poverty headcount ratio at $6.85 a day (2017 PPP) (% of population),SI.POV.UMIC,0.4
+Denmark,DNK,2000,Poverty headcount ratio at $6.85 a day (2017 PPP) (% of population),SI.POV.UMIC,0.2
+Denmark,DNK,1995,Poverty headcount ratio at $6.85 a day (2017 PPP) (% of population),SI.POV.UMIC,0.2
+Denmark,DNK,1992,Poverty headcount ratio at $6.85 a day (2017 PPP) (% of population),SI.POV.UMIC,1
+Denmark,DNK,1987,Poverty headcount ratio at $6.85 a day (2017 PPP) (% of population),SI.POV.UMIC,1.2
+Denmark,DNK,2021,Poverty gap at $6.85 a day (2017 PPP) (%),SI.POV.UMIC.GP,0.2
+Denmark,DNK,2020,Poverty gap at $6.85 a day (2017 PPP) (%),SI.POV.UMIC.GP,0.2
+Denmark,DNK,2019,Poverty gap at $6.85 a day (2017 PPP) (%),SI.POV.UMIC.GP,0.3
+Denmark,DNK,2018,Poverty gap at $6.85 a day (2017 PPP) (%),SI.POV.UMIC.GP,0.2
+Denmark,DNK,2017,Poverty gap at $6.85 a day (2017 PPP) (%),SI.POV.UMIC.GP,0.2
+Denmark,DNK,2016,Poverty gap at $6.85 a day (2017 PPP) (%),SI.POV.UMIC.GP,0.3
+Denmark,DNK,2015,Poverty gap at $6.85 a day (2017 PPP) (%),SI.POV.UMIC.GP,0.2
+Denmark,DNK,2014,Poverty gap at $6.85 a day (2017 PPP) (%),SI.POV.UMIC.GP,0.3
+Denmark,DNK,2013,Poverty gap at $6.85 a day (2017 PPP) (%),SI.POV.UMIC.GP,0.4
+Denmark,DNK,2012,Poverty gap at $6.85 a day (2017 PPP) (%),SI.POV.UMIC.GP,0.1
+Denmark,DNK,2011,Poverty gap at $6.85 a day (2017 PPP) (%),SI.POV.UMIC.GP,0.1
+Denmark,DNK,2010,Poverty gap at $6.85 a day (2017 PPP) (%),SI.POV.UMIC.GP,0.1
+Denmark,DNK,2009,Poverty gap at $6.85 a day (2017 PPP) (%),SI.POV.UMIC.GP,0.6
+Denmark,DNK,2008,Poverty gap at $6.85 a day (2017 PPP) (%),SI.POV.UMIC.GP,0.3
+Denmark,DNK,2007,Poverty gap at $6.85 a day (2017 PPP) (%),SI.POV.UMIC.GP,0.3
+Denmark,DNK,2006,Poverty gap at $6.85 a day (2017 PPP) (%),SI.POV.UMIC.GP,0.2
+Denmark,DNK,2005,Poverty gap at $6.85 a day (2017 PPP) (%),SI.POV.UMIC.GP,0.3
+Denmark,DNK,2004,Poverty gap at $6.85 a day (2017 PPP) (%),SI.POV.UMIC.GP,0.3
+Denmark,DNK,2003,Poverty gap at $6.85 a day (2017 PPP) (%),SI.POV.UMIC.GP,0.3
+Denmark,DNK,2000,Poverty gap at $6.85 a day (2017 PPP) (%),SI.POV.UMIC.GP,0.1
+Denmark,DNK,1995,Poverty gap at $6.85 a day (2017 PPP) (%),SI.POV.UMIC.GP,0.1
+Denmark,DNK,1992,Poverty gap at $6.85 a day (2017 PPP) (%),SI.POV.UMIC.GP,0.7
+Denmark,DNK,1987,Poverty gap at $6.85 a day (2017 PPP) (%),SI.POV.UMIC.GP,0.8
+Denmark,DNK,2021,"Survey mean consumption or income per capita, bottom 40% of population (2017 PPP $ per day)",SI.SPR.PC40,37.66
+Denmark,DNK,2016,"Survey mean consumption or income per capita, bottom 40% of population (2017 PPP $ per day)",SI.SPR.PC40,34.28
+Denmark,DNK,2021,"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)",SI.SPR.PC40.ZG,1.9
+Denmark,DNK,2021,"Survey mean consumption or income per capita, total population (2017 PPP $ per day)",SI.SPR.PCAP,65.91
+Denmark,DNK,2016,"Survey mean consumption or income per capita, total population (2017 PPP $ per day)",SI.SPR.PCAP,60.29
+Denmark,DNK,2021,"Annualized average growth rate in per capita real survey mean consumption or income, total population (%)",SI.SPR.PCAP.ZG,1.8
+Denmark,DNK,2020,Multidimensional poverty headcount ratio (% of total population),SI.POV.MDIM,15.9
+Denmark,DNK,2019,Multidimensional poverty headcount ratio (% of total population),SI.POV.MDIM,16.5
+Denmark,DNK,2018,Multidimensional poverty headcount ratio (% of total population),SI.POV.MDIM,17.4
+Denmark,DNK,2017,Multidimensional poverty headcount ratio (% of total population),SI.POV.MDIM,17.2
+Denmark,DNK,2016,Multidimensional poverty headcount ratio (% of total population),SI.POV.MDIM,16.8
+Denmark,DNK,2015,Multidimensional poverty headcount ratio (% of total population),SI.POV.MDIM,17.7
+Denmark,DNK,2014,Multidimensional poverty headcount ratio (% of total population),SI.POV.MDIM,17.9
+Denmark,DNK,2013,Multidimensional poverty headcount ratio (% of total population),SI.POV.MDIM,18.3
+Denmark,DNK,2012,Multidimensional poverty headcount ratio (% of total population),SI.POV.MDIM,17.5
+Denmark,DNK,2011,Multidimensional poverty headcount ratio (% of total population),SI.POV.MDIM,17.6
+Denmark,DNK,2010,Multidimensional poverty headcount ratio (% of total population),SI.POV.MDIM,18.3
+Denmark,DNK,2020,"Multidimensional poverty headcount ratio, children (% of population ages 0-17)",SI.POV.MDIM.17,12.7
+Denmark,DNK,2019,"Multidimensional poverty headcount ratio, children (% of population ages 0-17)",SI.POV.MDIM.17,13.6
+Denmark,DNK,2018,"Multidimensional poverty headcount ratio, children (% of population ages 0-17)",SI.POV.MDIM.17,14.9
+Denmark,DNK,2017,"Multidimensional poverty headcount ratio, children (% of population ages 0-17)",SI.POV.MDIM.17,14.5
+Denmark,DNK,2016,"Multidimensional poverty headcount ratio, children (% of population ages 0-17)",SI.POV.MDIM.17,13.6
+Denmark,DNK,2015,"Multidimensional poverty headcount ratio, children (% of population ages 0-17)",SI.POV.MDIM.17,15.3
+Denmark,DNK,2014,"Multidimensional poverty headcount ratio, children (% of population ages 0-17)",SI.POV.MDIM.17,14.4
+Denmark,DNK,2013,"Multidimensional poverty headcount ratio, children (% of population ages 0-17)",SI.POV.MDIM.17,15.4
+Denmark,DNK,2012,"Multidimensional poverty headcount ratio, children (% of population ages 0-17)",SI.POV.MDIM.17,14.3
+Denmark,DNK,2011,"Multidimensional poverty headcount ratio, children (% of population ages 0-17)",SI.POV.MDIM.17,16.1
+Denmark,DNK,2010,"Multidimensional poverty headcount ratio, children (% of population ages 0-17)",SI.POV.MDIM.17,15.1
+Denmark,DNK,2020,"Multidimensional poverty headcount ratio, female (% of female population)",SI.POV.MDIM.FE,16.2
+Denmark,DNK,2019,"Multidimensional poverty headcount ratio, female (% of female population)",SI.POV.MDIM.FE,16.1
+Denmark,DNK,2018,"Multidimensional poverty headcount ratio, female (% of female population)",SI.POV.MDIM.FE,16.9
+Denmark,DNK,2017,"Multidimensional poverty headcount ratio, female (% of female population)",SI.POV.MDIM.FE,16.6
+Denmark,DNK,2016,"Multidimensional poverty headcount ratio, female (% of female population)",SI.POV.MDIM.FE,17.2
+Denmark,DNK,2015,"Multidimensional poverty headcount ratio, female (% of female population)",SI.POV.MDIM.FE,18
+Denmark,DNK,2014,"Multidimensional poverty headcount ratio, female (% of female population)",SI.POV.MDIM.FE,18.2
+Denmark,DNK,2013,"Multidimensional poverty headcount ratio, female (% of female population)",SI.POV.MDIM.FE,18.6
+Denmark,DNK,2012,"Multidimensional poverty headcount ratio, female (% of female population)",SI.POV.MDIM.FE,17.5
+Denmark,DNK,2011,"Multidimensional poverty headcount ratio, female (% of female population)",SI.POV.MDIM.FE,18
+Denmark,DNK,2010,"Multidimensional poverty headcount ratio, female (% of female population)",SI.POV.MDIM.FE,19
+Denmark,DNK,2020,"Multidimensional poverty headcount ratio, male (% of male population)",SI.POV.MDIM.MA,15.6
+Denmark,DNK,2019,"Multidimensional poverty headcount ratio, male (% of male population)",SI.POV.MDIM.MA,16.6
+Denmark,DNK,2018,"Multidimensional poverty headcount ratio, male (% of male population)",SI.POV.MDIM.MA,17.1
+Denmark,DNK,2017,"Multidimensional poverty headcount ratio, male (% of male population)",SI.POV.MDIM.MA,17.8
+Denmark,DNK,2016,"Multidimensional poverty headcount ratio, male (% of male population)",SI.POV.MDIM.MA,16.4
+Denmark,DNK,2015,"Multidimensional poverty headcount ratio, male (% of male population)",SI.POV.MDIM.MA,17.5
+Denmark,DNK,2014,"Multidimensional poverty headcount ratio, male (% of male population)",SI.POV.MDIM.MA,17.6
+Denmark,DNK,2013,"Multidimensional poverty headcount ratio, male (% of male population)",SI.POV.MDIM.MA,18.1
+Denmark,DNK,2012,"Multidimensional poverty headcount ratio, male (% of male population)",SI.POV.MDIM.MA,17.4
+Denmark,DNK,2011,"Multidimensional poverty headcount ratio, male (% of male population)",SI.POV.MDIM.MA,17.2
+Denmark,DNK,2010,"Multidimensional poverty headcount ratio, male (% of male population)",SI.POV.MDIM.MA,17.7
